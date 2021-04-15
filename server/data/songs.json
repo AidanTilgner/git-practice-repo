@@ -27,4 +27,10 @@
     "artist": "Vulfpeck",
     "releaseDate": "2017"
   }
+  {
+    "id": 5,
+    "title": "In the Summertime",
+    "artist": "Mungo Jerry",
+    "releaseDate": "1970"
+  }
 ]
